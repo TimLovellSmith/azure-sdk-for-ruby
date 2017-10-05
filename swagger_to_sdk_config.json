@@ -365,7 +365,7 @@
       "autorest_options": {
         "namespace": "Azure::ARM::Redis",
         "package-name": "azure_mgmt_redis",
-        "package-version": "0.13.0"
+        "package-version": "0.14.0"
       },
       "output_dir": "management/azure_mgmt_redis/lib",
       "wrapper_filesOrDirs": [
